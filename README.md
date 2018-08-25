@@ -1,0 +1,2 @@
+# Stasmodels
+学习统计计量知识并使用python的StatsModels实现
